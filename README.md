@@ -47,12 +47,7 @@ I am a **Mobile Engineer** with 4+ years of experience specialized in building h
 </p>
 
 <!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+<h2>Connect With Me🤝</h2>
 
 <!--icons and links-->
 <p align="center">
