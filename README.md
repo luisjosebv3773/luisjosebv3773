@@ -7,14 +7,37 @@
   </a>
 </p>
 
-### About Me 🚀
+<h2>About Me</h2>
 
-I am a **Mobile Android Developer** with **4 years of experience** crafting social media applications using **Kotlin and Java**. I specialize in leading teams through the entire lifecycle of a project, from initial design to final deployment. 
+### 📱 Senior Android Developer | Kotlin & Java Expert
 
-I’m passionate about creating intuitive user interfaces and managing projects with a focus on delivering high-quality products through rigorous testing and attention to detail. 🛠️
+I am a **Mobile Engineer** with 4+ years of experience specialized in building high-performance social media and service applications. I have a proven track record of leading development teams and delivering scalable products from scratch.
+
+- 🔭 I’m currently working on improving large-scale mobility solutions.
+- ⚡ **Expertise:** Native Android (Kotlin (**Kotlin** <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white" height="20"> / **Java** <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" height="20">) & Hybrid (**Flutter** <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" height="20">)/Java) & Hybrid (Flutter).
+- 🏗️ **Focus:** Scalable architectures and robust local data management (Room/SQLite).
+- ✅ **Quality:** Specialist in white-box testing and proactive bug resolution via Crashlytics.
+
+  
+
+<div style="display: block;">
+  <img align="right" width="200" height="200" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" style="margin-left: 20px;" />
+
+  ### 📊 Professional Impact
+
+  | Project | Key Achievement |
+  | :--- | :--- |
+  | **Industrial App** | 80% Faster processes via automation |
+  | **Social Media** | 20% Faster navigation performance |
+  | **Ridery** | Continuous optimization for high-traffic users |
+</div>
+
+<br clear="right"/>
+
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills 👨🏻‍💻</b>
-<br>
+
 
 <!--tech stack icons-->
 <p align="center">
