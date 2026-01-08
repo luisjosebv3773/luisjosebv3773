@@ -11,7 +11,7 @@
 
 ### 📱 Senior Android Developer | Kotlin & Java Expert
 
-I am a **Mobile Engineer** with 4+ years of experience specialized in building high-performance social media and service applications. I have a proven track record of leading development teams and delivering scalable products from scratch.
+I am a **Mobile Engineer** with 5 years of experience specialized in building high-performance social media and service applications. I have a proven track record of leading development teams and delivering scalable products from scratch.
 
 - 🔭 I’m currently working on improving large-scale mobility solutions.
 - ⚡ **Expertise:** Native Android (Kotlin (**Kotlin** <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white" height="20"> / **Java** <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" height="20">) & Hybrid (**Flutter** <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" height="20">)/Java) & Hybrid (Flutter).
